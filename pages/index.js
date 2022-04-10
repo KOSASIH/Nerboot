@@ -55,7 +55,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{'Nerboot'}
+          Powered by {'Nerboot'}
         </a>
       </footer>
     </div>
